@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.slider-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.slider-label {
+    margin-right: 10px;
+    width: 50px;
+}
+
+.slider-value {
+    margin-left: 10px;
+}
+
+#color-display {
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    background-color: rgb(0, 0, 0);
+}
+
